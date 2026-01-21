@@ -1,12 +1,12 @@
-# 🕷️ WebFuzzer
+# 🕷️ WebSeeker
 
 **Automated Web Application Security Testing & Learning Tool**
 
 ---
 
-## 🚀 About WebFuzzer
+## 🚀 About WebSeeker
 
-**WebFuzzer** is an open-source **automated web vulnerability scanner** that does more than just detect issues—it teaches you how to fix them.
+**WebSeeker** is an open-source **Automated web vulnerability scanner** that does more than just detect issues—it teaches you how to fix them.
 
 It sends crafted inputs (**payloads**) into web application parameters to uncover vulnerabilities like:
 
@@ -21,7 +21,7 @@ It sends crafted inputs (**payloads**) into web application parameters to uncove
 
 ## 🔥 Why Use WebFuzzer?
 
-| 🚨 **Problem** | ✅ **WebFuzzer Solution** |
+| 🚨 **Problem** | ✅ **WebSeeker Solution** |
 |----------------|---------------------------|
 | Expensive, complex tools | **Free & beginner-friendly** |
 | No fix recommendations | **Step-by-step guidance provided** |
@@ -39,13 +39,4 @@ It sends crafted inputs (**payloads**) into web application parameters to uncove
 - 🗃️ **HTML Reporting (PDF Export coming soon)**  
 - 🖥️ **User-friendly CLI (GUI planned)**  
 
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/vethavarshini/Web_Fuzzer.git
-cd Web_Fuzzer
-
-python3 fuzzer.py
 
